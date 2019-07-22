@@ -59,20 +59,10 @@ img {
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#caviarNav" aria-controls="caviarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
                         <div class="collapse navbar-collapse" id="caviarNav">
                             <ul class="navbar-nav ml-auto" id="caviarMenu">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#home"> Home <span class="sr-only"></span></a>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="home.php"> Home <span class="sr-only"></span></a>
                                 </li>
 
-                                <li class="nav-item dropdown">
-                                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Administrador</a>
-                                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                          <a class="dropdown-item" href="#DescargarPedidos">Ver Pedidos</a>
-                                          <a class="dropdown-item" href="#CambiarPedidos">Cambiar Pedido</a>
-                                          <a class="dropdown-item" href="#AgregarUsuarios">Agregar Usuario</a>
-                                          <a class="dropdown-item" href="#VerUsuarios">Ver Usuarios</a>
-                                          <a class="dropdown-item" href="ActualizarPedidos">Actualizar Usuarios</a>
-                                      </div>
-                                  </li>
 
                                   <li class="nav-item">
                                     <a class="nav-link"  href="administrador.php"> Usuario:<?php echo" $nombreuser"; ?> </a>
@@ -158,7 +148,7 @@ img {
             </div>
         </div>
     </section>
-    
+
 
         <!-- ****** Footer Area Start ****** -->
         <footer class="caviar-footer-area">
