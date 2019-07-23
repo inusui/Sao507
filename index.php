@@ -131,34 +131,34 @@ img {
                         <h2>Menu</h2>
                     </div>
                     <!-- btn -->
-                    <a href="menu.php" class="btn caviar-btn"><span></span> View The Menu</a>
+                    <a href="menu.php" class="btn caviar-btn"><span></span> Ver Menu</a>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="caviar-single-dish wow fadeInUp" data-wow-delay="0.5s">
-                        <img src="img/menu-img/dish-1.png" alt="">
+                        <img src="img/menu-img/sao.png" alt="">
                         <div class="dish-info">
-                            <h6 class="dish-name">Lorem Ipsum Dolor Sit Amet</h6>
-                            <p class="dish-price">$45</p>
+                            <h6 class="dish-name">Sao</h6>
+                            <p class="dish-price">B/. 2.00</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="caviar-single-dish wow fadeInUp" data-wow-delay="1s">
-                        <img src="img/menu-img/dish-2.png" alt="">
+                        <img src="img/menu-img/pescado2.png" alt="">
                         <div class="dish-info">
-                            <h6 class="dish-name">Lorem Ipsum</h6>
-                            <p class="dish-price">$45</p>
+                            <h6 class="dish-name">Pesca'o en Salsa Criolla</h6>
+                            <p class="dish-price">B/. 5.00</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="caviar-single-dish wow fadeInUp" data-wow-delay="1.5s">
-                        <img src="img/menu-img/dish-3.png" alt="">
+                        <img src="img/menu-img/concha.png" alt="">
                         <div class="dish-info">
-                            <h6 class="dish-name">Lorem Ipsum Dolor Sit Amet</h6>
-                            <p class="dish-price">$45</p>
+                            <h6 class="dish-name">Concha con Patacon</h6>
+                            <p class="dish-price">B./ 7.00</p>
                         </div>
                     </div>
                 </div>
